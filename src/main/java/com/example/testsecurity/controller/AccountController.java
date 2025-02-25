@@ -1,7 +1,7 @@
 package com.example.testsecurity.controller;
 
 import com.example.testsecurity.model.AppUser;
-import com.example.testsecurity.model.RegisterDto;
+import com.example.testsecurity.dto.RegisterDto;
 import com.example.testsecurity.repo.AppUserRepo;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
